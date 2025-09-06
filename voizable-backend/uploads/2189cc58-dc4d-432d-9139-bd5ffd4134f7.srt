@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,000
+I'm going to re-record the entire course.
+
+2
+00:00:02,000 --> 00:00:13,000
+Now, this is a full-fledged course and that's why it's so Lenny, but you cannot finish the entire course in 1 day even if it says 12 hours or 13 hours, it will take time.
+
+3
+00:00:13,000 --> 00:00:15,000
+Now, let's talk about Java.
+
+4
+00:00:15,000 --> 00:00:17,000
+Now, why Java is so famous?
+
+5
+00:00:17,000 --> 00:00:28,000
+Now if you see the programming index, the top 5 programming language, you will always find Java there maybe at the first position, or at the fourth position, you will find Java.
+
+6
+00:00:28,000 --> 00:00:30,000
+Why Java is so?
+
+7
+00:00:30,000 --> 00:00:32,000
+Famous is because Java has multiple feet.
+

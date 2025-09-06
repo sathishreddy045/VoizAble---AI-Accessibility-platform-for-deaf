@@ -1,0 +1,99 @@
+1
+00:00:00,000 --> 00:00:02,879
+So, this is the first lecture over Python course.
+
+2
+00:00:02,879 --> 00:00:04,600
+So, you can say Python course.
+
+3
+00:00:04,600 --> 00:00:08,240
+We will see in this video introduction to Python, right?
+
+4
+00:00:08,240 --> 00:00:13,759
+You can say some features of this language application areas who are using this Python.
+
+5
+00:00:13,759 --> 00:00:16,480
+Why this is so popular nowadays on features?
+
+6
+00:00:16,480 --> 00:00:19,640
+This kind of theme we will be discussing in this video about Python or Python.
+
+7
+00:00:19,640 --> 00:00:22,480
+I will pronounce it as Python, right?
+
+8
+00:00:22,480 --> 00:00:27,400
+Okay, now see, Python is nowadays the most popular programming language.
+
+9
+00:00:27,479 --> 00:00:31,719
+But you can say it is the fastest growing programming language nowadays.
+
+10
+00:00:31,719 --> 00:00:38,600
+It's not like that it is new language because you you know you think that recently it is it has become so popular.
+
+11
+00:00:38,600 --> 00:00:40,600
+So, it is a new language.
+
+12
+00:00:40,600 --> 00:00:52,519
+No, the concept of Python came into picture in 1989 and even Java was you know the concept of Java came into picture in 1995.
+
+13
+00:00:52,519 --> 00:00:55,039
+So, it is before Java, right?
+
+14
+00:00:55,039 --> 00:01:04,000
+But recently in past few years like Python has become so much popular and why so that also we will discuss, right?
+
+15
+00:01:04,000 --> 00:01:08,239
+Now, basically in every area Python is being used right now.
+
+16
+00:01:08,239 --> 00:01:12,879
+The main areas are machine learning data science artificial intelligence.
+
+17
+00:01:12,879 --> 00:01:15,920
+See nowadays the data is a big problem.
+
+18
+00:01:15,920 --> 00:01:21,599
+Many companies like you can say your Facebook, YouTube, any shopping websites.
+
+19
+00:01:21,679 --> 00:01:25,919
+They are having data of billions of users, right?
+
+20
+00:01:25,919 --> 00:01:29,439
+And how they manage that data and one more thing is what?
+
+21
+00:01:29,439 --> 00:01:40,639
+See, I think you have noticed if you suppose nowadays I you know, a search for especially chicken curry kurtas, right?
+
+22
+00:01:40,639 --> 00:01:51,359
+So, I have I've been looking for these kurtas on two or three websites, shopping websites and whenever I open any other website, you know, for study, that kind of thing.
+
+23
+00:01:51,359 --> 00:01:55,519
+So, those relevant ads they show me, right?
+
+24
+00:01:55,519 --> 00:01:57,920
+Ads of those chicken curry kurtas and all.
+
+25
+00:01:57,920 --> 00:02:01,599
+So, how they come to know that advertisers like how they come to know?

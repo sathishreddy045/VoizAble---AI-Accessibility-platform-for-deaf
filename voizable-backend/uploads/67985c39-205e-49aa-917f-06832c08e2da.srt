@@ -1,0 +1,57 @@
+1
+00:00:00,000 --> 00:00:03,200
+I'm going to re-record the entire course.
+Now,
+
+2
+00:00:03,300 --> 00:00:06,500
+this is a full-fledged course and that's
+why
+
+3
+00:00:06,600 --> 00:00:09,800
+it's so Lenny, but you cannot finish the
+
+4
+00:00:09,900 --> 00:00:13,100
+entire course in 1 day even if it
+
+5
+00:00:13,200 --> 00:00:16,400
+says 12 hours or 13 hours, it will
+
+6
+00:00:16,500 --> 00:00:19,699
+take time. Now, let's talk about Java.
+Now,
+
+7
+00:00:19,800 --> 00:00:23,000
+why Java is so famous? Now if you
+
+8
+00:00:23,100 --> 00:00:26,300
+see the programming index, the top 5
+programming
+
+9
+00:00:26,400 --> 00:00:29,600
+language, you will always find Java there
+maybe
+
+10
+00:00:29,700 --> 00:00:32,900
+at the first position, or at the fourth
+
+11
+00:00:33,000 --> 00:00:36,200
+position, you will find Java. Why Java is
+
+12
+00:00:36,299 --> 00:00:39,099
+so? Famous is because Java has multiple
+
+13
+00:00:39,199 --> 00:00:40,199
+feet.
+
